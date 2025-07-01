@@ -18,4 +18,3 @@ jobs:
         node-version: 18.x
     - run: npm install
     - run: npm run build # if you have a build step
-    - run: npm test      # if you have tests 
